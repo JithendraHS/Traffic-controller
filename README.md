@@ -9,6 +9,7 @@ This repository contains Verilog code for a simple traffic controller module imp
 - `README.md`: This README file.
 
 ## Finite state machine
+![Untitled Diagram drawio (1)](https://github.com/JithendraHS/Traffic-controller/assets/37045723/5cdc8369-18fe-4471-9e11-37982042bffb)
 
 ## Simulated output
 ![image](https://github.com/JithendraHS/Traffic-controller/assets/37045723/50d1e2ee-9b3d-420d-8aca-1ef314805b61)
